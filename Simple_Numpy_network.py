@@ -108,3 +108,4 @@ if prediction<0.5:
 else:
     speak("The point is red")
     print("Prediction value: Red",prediction)
+        
